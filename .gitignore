@@ -1,0 +1,8 @@
+attendance.db
+dataset/
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.yml
+.DS_Store
